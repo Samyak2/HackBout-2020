@@ -91,7 +91,7 @@ pytz==2019.3
 pyzmq==19.0.0
 qtconsole==4.6.0
 ratelim==0.1.6
-requests==2.11.1
+requests==2.20.0
 requests-toolbelt==0.7.0
 rsa==4.0
 Rtree==0.9.3
